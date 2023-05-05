@@ -26,3 +26,8 @@ for optimizer_name, optimizer in optimizer_dict.items():
 
 
 ## [Banana Ripeness Classifier](https://github.com/ktchan33GBC/Banana-Ripeness-Classifier/tree/main/Backend)
+---
+
+![Image Link](https://github.com/ktchan33GBC/Banana-Ripeness-Classifier/blob/main/Image/UX_customer_journey.png)
+
+---
