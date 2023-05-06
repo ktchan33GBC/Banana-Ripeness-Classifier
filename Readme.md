@@ -28,7 +28,7 @@
 ## Demo
 
 
-https://github.com/ktchan33GBC/Banana-Ripeness-Classifier/blob/main/Image/underriped_HD.gif
+![Demo](https://github.com/ktchan33GBC/Banana-Ripeness-Classifier/blob/main/Image/underriped_HD.gif)
 ## Traing Result
 
 ![Result](https://github.com/ktchan33GBC/Banana-Ripeness-Classifier/blob/main/Result/Result.png)
