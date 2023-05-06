@@ -31,3 +31,6 @@ for optimizer_name, optimizer in optimizer_dict.items():
 ![Image Link](https://github.com/ktchan33GBC/Banana-Ripeness-Classifier/blob/main/Image/UX_customer_journey.png)
 
 ---
+
+![Demo](https://github.com/ktchan33GBC/Banana-Ripeness-Classifier/blob/main/Image/underriped_HD.gif)
+
