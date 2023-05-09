@@ -48,10 +48,10 @@ Xception is the preferred deep learning model for image classification, based on
 
 ## Support
 
-For support, email katsunchanai@gmail.com or join our Slack channel.
+For support, email katsunchanai@gmail.com
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at katsunchanai@gmail.com
+If you have any feedback, please reach out to me at katsunchanai@gmail.com
 
